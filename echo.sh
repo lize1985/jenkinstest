@@ -1,1 +1,1 @@
-eqcho "TESTTESTTEST...123123123.."
+echo "Hello World Ze Li...123123123.."
