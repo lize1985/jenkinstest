@@ -10,4 +10,9 @@ public class App
     {
         System.out.println( "Hello World!!!!" );
     }
+    
+    public int multiple (int a, int b){
+        return a*b;
+    }
+    
 }
