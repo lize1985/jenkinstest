@@ -54,7 +54,9 @@ public class AppTest
      */
     public void testApp2()
     {
-        assertTrue( true );
+        App app = new App()
+        assertEquals("Test",app.multiple(2,2),4)
+
     }
     
 }
